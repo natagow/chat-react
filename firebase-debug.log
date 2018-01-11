@@ -1,0 +1,32 @@
+[debug] [2018-01-10T10:58:46.515Z] ----------------------------------------------------------------------
+[debug] [2018-01-10T10:58:46.518Z] Command:       /home/user/.nvm/versions/node/v9.2.0/bin/node /home/user/.nvm/versions/node/v9.2.0/bin/firebase serve
+[debug] [2018-01-10T10:58:46.518Z] CLI Version:   3.16.0
+[debug] [2018-01-10T10:58:46.518Z] Platform:      linux
+[debug] [2018-01-10T10:58:46.518Z] Node Version:  v9.2.0
+[debug] [2018-01-10T10:58:46.518Z] Time:          Wed Jan 10 2018 11:58:46 GMT+0100 (CET)
+[debug] [2018-01-10T10:58:46.518Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-01-10T10:58:46.529Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-01-10T10:58:46.529Z] > authorizing via signed-in user
+[debug] [2018-01-10T10:58:46.531Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/react-chat-6db80  
+  
+ Wed Jan 10 2018 11:58:46 GMT+0100 (CET)
+[debug] [2018-01-10T10:58:47.536Z] <<< HTTP RESPONSE 200
+[debug] [2018-01-10T10:58:47.538Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/react-chat-6db80/tokens  
+  
+ Wed Jan 10 2018 11:58:47 GMT+0100 (CET)
+[debug] [2018-01-10T10:58:48.296Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/home/user'...
+[info] 
+[debug] [2018-01-10T10:58:48.301Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/react-chat-6db80  
+  
+ Wed Jan 10 2018 11:58:48 GMT+0100 (CET)
+[debug] [2018-01-10T10:58:49.121Z] <<< HTTP RESPONSE 200
+[debug] [2018-01-10T10:58:49.126Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/835224929883/clients/_:getWebAppConfig  
+  
+ Wed Jan 10 2018 11:58:49 GMT+0100 (CET)
+[debug] [2018-01-10T10:58:49.969Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+
